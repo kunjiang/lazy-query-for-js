@@ -1,0 +1,23 @@
+{
+  "name": "lazy-query-for-js",
+  "version": "1.0.0",
+  "description": "借鉴 C# 中 LINQ 的延迟执行的方式, 将函数式查询语法改写为允许延迟执行的方法, 并实现映射的复合操作.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunjiang/lazy-query-for-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunjiang/lazy-query-for-js/issues"
+  },
+  "homepage": "https://github.com/kunjiang/lazy-query-for-js#readme",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  }
+}
